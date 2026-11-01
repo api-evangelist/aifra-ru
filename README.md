@@ -1,4 +1,4 @@
-# aifra-ru
+# AIfra
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,68 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aifra-ru is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aifra.ru/
+AIfra provides a SaaS platform for temporary static previews of AI‑generated websites and HTML content. Users can upload a folder or files and receive a secure HTTPS link valid for 48 hours, without needing an account, API key, or domain setup. The service targets developers and AI agents, offering a CLI, REST API, and MCP integration, with special support for viewing previews in Russia without VPN. Documentation, guides, and example projects are publicly available.
+
+**Areas:** SaaS · Static-Previews · AI · CLI · REST
+
+## AIfra on APIs.io
+
+Everything profiled for AIfra is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aifra-ru/](https://apis.io/providers/aifra-ru/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [AIfra Analytics API](https://apis.io/apis/aifra-ru/aifra-ru-analytics-api/) — The Analytics API from AIfra — 1 operation(s) for analytics.
+- [AIfra Health API](https://apis.io/apis/aifra-ru/aifra-ru-health-api/) — The Health API from AIfra — 1 operation(s) for health.
+- [AIfra MCP API](https://apis.io/apis/aifra-ru/aifra-ru-mcp-api/) — The Mcp API from AIfra — 1 operation(s) for mcp.
+- [AIfra Previews API](https://apis.io/apis/aifra-ru/aifra-ru-previews-api/) — The Previews API from AIfra — 2 operation(s) for previews.
+- [AIfra Ready API](https://apis.io/apis/aifra-ru/aifra-ru-ready-api/) — The Ready API from AIfra — 1 operation(s) for ready.
+- [AIfra Remote API](https://apis.io/apis/aifra-ru/aifra-ru-remote-api/) — The Remote API from AIfra — 4 operation(s) for remote.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Aifra Ru Agentic Access](https://apis.io/agentic-access/aifra-ru/aifra-ru-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AIfra API Rules](https://apis.io/rules/aifra-ru/aifra-ru-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aifra Ru Authentication](https://apis.io/security/aifra-ru/aifra-ru-authentication/)
+- [Aifra Ru Domain Security](https://apis.io/security/aifra-ru/aifra-ru-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aifra.ru/)
+- [Getting started](https://aifra.ru/en/docs/mcp/)
+- [API reference](https://aifra.ru/docs/)
+- [Terms of service](https://aifra.ru/legal/terms/)
+- [Privacy policy](https://aifra.ru/legal/privacy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aifra-ru/](https://apis.io/providers/aifra-ru/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AIfra: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aifra-ru/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).

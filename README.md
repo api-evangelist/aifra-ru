@@ -66,7 +66,7 @@
 
 AIfra provides a SaaS platform for temporary static previews of AI‑generated websites and HTML content. Users can upload a folder or files and receive a secure HTTPS link valid for 48 hours, without needing an account, API key, or domain setup. The service targets developers and AI agents, offering a CLI, REST API, and MCP integration, with special support for viewing previews in Russia without VPN. Documentation, guides, and example projects are publicly available.
 
-**Areas:** SaaS · Static-Previews · AI · CLI · REST
+**Areas:** Software-as-a-Service · Static-Previews · Artificial Intelligence · CLI · REST
 
 ## AIfra on APIs.io
 
@@ -89,7 +89,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Aifra Ru Agentic Access](https://apis.io/agentic-access/aifra-ru/aifra-ru-agentic-access/)
+- [AIfra Agentic Access](https://apis.io/agentic-access/aifra-ru/aifra-ru-agentic-access/)
 
 #### Governance rules (1)
 
@@ -101,8 +101,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aifra Ru Authentication](https://apis.io/security/aifra-ru/aifra-ru-authentication/)
-- [Aifra Ru Domain Security](https://apis.io/security/aifra-ru/aifra-ru-domain-security/)
+- [AIfra Authentication](https://apis.io/security/aifra-ru/aifra-ru-authentication/)
+- [AIfra Domain Security](https://apis.io/security/aifra-ru/aifra-ru-domain-security/)
 
 ## Where to find this API
 
@@ -116,7 +116,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aifra-ru/](https://apis.io/providers/aifra-ru/).
+**Kin Score 34.6** — thin · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 41.8 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 29.8 |
+
+**Agent readiness 21.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aifra-ru/](https://apis.io/providers/aifra-ru/).
 
 ## How this profile is made
 
